@@ -1,0 +1,14 @@
+Server: TRQ3,
+Mozilla: 4.5 connect sec
+Interlock: 2Serve
+Integer: 4 - 7, range unpopped,
+ZIT: 2.4, server on Yart's FDIN system
+LinuxMintDataServer: false, most likely .4 Rgret Shell
+ubuntu distros, JLK4
+GTK connect webview
+UserBreach: {
+ 5.6, Folger, 7672.447.11, ZIT FDIN
+ 1.2, Folger, 5327.5522.99, unpopped but ZIT FDIN
+}
+incope: webviewaspect.incope.html
+WebViewDisabled: false, webview2 in use
